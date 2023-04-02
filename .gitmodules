@@ -1,0 +1,6 @@
+[submodule "actix_web_task_service"]
+	path = actix_web_task_service
+	url = https://github.com/gsspdev/actix_web_task_service
+[submodule "rust_front_end"]
+	path = rust_front_end
+	url = https://github.com/gsspdev/rust_front_end
